@@ -65,7 +65,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MeanofArray">
+  <component name="RunManager">
     <configuration name="MeanofArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.recursion.easy.MeanofArray" />
       <module name="ZohoPreparation" />
