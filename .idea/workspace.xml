@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1e3fa05-1ea9-4641-89d7-38e7d8ffdcad" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/com/heap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/Linkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/MeanofArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/PrintNumbersRev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/StringReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/SumofNat.java" afterDir="false" />
+    <list default="true" id="e1e3fa05-1ea9-4641-89d7-38e7d8ffdcad" name="Changes" comment="Daily Learn">
+      <change afterPath="$PROJECT_DIR$/src/com/array/containsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/LengthofStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/SumofArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursion/easy/SumofDigitOfNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sakthi/Linkedlist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sakthi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/linkedlist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recursion/easy/Decimaltobin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/recursion/easy/Decimaltobin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recursion/easy/MeanofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/recursion/easy/MeanofArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +29,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;codewithsakthi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="45cf9fe8-6855-464b-8f5c-6209972c232e" />
+        <option name="url" value="https://github.com/codewithsakthi/ZohoPreparation.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,23 +50,27 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2cZYNgYtz3qprA6isuFFJhlLLwK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.containsDuplicate.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/ZohoPreparation&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;G:/ZohoPreparation/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MeanofArray">
     <configuration name="MeanofArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.recursion.easy.MeanofArray" />
       <module name="ZohoPreparation" />
@@ -89,6 +103,13 @@
         <item itemvalue="Application.MeanofArray" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -131,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709711392744</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Daily Learn">
+      <option name="closed" value="true" />
+      <created>1710227071816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710227071816</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,16 +176,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Daily Learn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily Learn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/recursion/easy/StringReversal.java</url>
           <line>4</line>
@@ -166,6 +191,31 @@
           <url>file://$PROJECT_DIR$/src/com/recursion/easy/StringReversal.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/recursion/easy/SumofDigitOfNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/recursion/easy/StringReversal.java</url>
