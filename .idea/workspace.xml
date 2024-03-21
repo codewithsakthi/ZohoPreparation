@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1e3fa05-1ea9-4641-89d7-38e7d8ffdcad" name="Changes" comment="Daily Learn">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/array/ProddArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/array/TopK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TwoPointers/PermutationString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/array/ValidSudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MeanofArray.executor": "Run",
+    "Application.PermutationString.executor": "Run",
     "Application.ProddArray.executor": "Run",
     "Application.TopK.executor": "Run",
     "Application.containsDuplicate.executor": "Run",
@@ -184,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710824329979</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Daily Learn">
+      <option name="closed" value="true" />
+      <created>1710851973885</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710851973885</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
