@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1e3fa05-1ea9-4641-89d7-38e7d8ffdcad" name="Changes" comment="Daily Learn">
-      <change afterPath="$PROJECT_DIR$/src/com/intervals/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/BinarySearch/Search2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack/DailyTemp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DailyTemp.executor": "Run",
     "Application.MeanofArray.executor": "Run",
     "Application.MergeIntervals.executor": "Run",
     "Application.PermutationString.executor": "Run",
@@ -200,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711029891753</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Daily Learn">
+      <option name="closed" value="true" />
+      <created>1711090330407</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711090330407</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
