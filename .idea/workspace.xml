@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1e3fa05-1ea9-4641-89d7-38e7d8ffdcad" name="Changes" comment="Daily Learn">
-      <change afterPath="$PROJECT_DIR$/src/com/BinarySearch/Search2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stack/DailyTemp.java" afterDir="false" />
+    <list default="true" id="e1e3fa05-1ea9-4641-89d7-38e7d8ffdcad" name="Changes" comment="Monotonic Stack">
+      <change afterPath="$PROJECT_DIR$/src/com/intervals/InsertInterval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/linkedlist/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/List/linkedlist/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/linkedlist/Linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/List/linkedlist/Linkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/linkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/List/linkedlist/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DailyTemp.executor": "Run",
+    "Application.InsertInterval.executor": "Run",
     "Application.MeanofArray.executor": "Run",
     "Application.MergeIntervals.executor": "Run",
     "Application.PermutationString.executor": "Run",
@@ -72,6 +75,11 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.List" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MeanofArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.recursion.easy.MeanofArray" />
@@ -210,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711090330407</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Monotonic Stack">
+      <option name="closed" value="true" />
+      <created>1711178610706</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711178610706</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +243,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Daily Learn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily Learn" />
+    <MESSAGE value="Monotonic Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monotonic Stack" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
